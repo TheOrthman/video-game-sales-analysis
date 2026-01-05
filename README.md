@@ -1,9 +1,9 @@
 # 🎮 Video Game Sales Analysis (1971–2024)
 
 ## 📌 Project Overview
-This project analyzes **global video game sales data** spanning **1971 to 2024**, covering **64,016 titles** across multiple consoles, genres, and regions.  
+This project analyzes **global video game sales data** spanning **1971 to 2024**, covering **64,016 titles** across multiple consoles, genres, and regions.
 
-The goal is to uncover **industry trends, top-selling titles, and regional performance differences**, using **Microsoft Excel**.
+The analysis was conducted by **Mambila Analytics** to demonstrate how data analytics can uncover **industry trends, top-selling titles, and regional performance differences**, using **Microsoft Excel**.
 
 ---
 
@@ -77,12 +77,12 @@ Compares sales across **North America, Japan, and Europe & Africa**, revealing t
 
 ---
 
-## 👤 Author
-**Ahmadu Usman**  
-Data Analyst | Founder, Mambila Analytics | Excel • SQL • Python  
+## 👤 About Mambila Analytics
+**Mambila Analytics** is a data analytics brand focused on helping businesses and organizations make **data-driven decisions** through clear analysis, visualization, and insights.
+
+This project serves as a portfolio demonstration of analytical capabilities using real-world datasets.
 
 ---
 
 ## 📬 Contact
-📧 usmam4hmadu@gmail.com
-
+📧 Mambilaanalytics@gmail.com
