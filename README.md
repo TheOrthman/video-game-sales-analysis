@@ -86,3 +86,10 @@ This project serves as a portfolio demonstration of analytical capabilities usin
 
 ## 📬 Contact
 📧 Mambilaanalytics@gmail.com
+
+
+## 🤝 Contributor
+**Usman Ahmadu**  
+Data Analyst | Excel • SQL • Python  
+
+Contributed to data cleaning, analysis, visualization, and insight generation.
